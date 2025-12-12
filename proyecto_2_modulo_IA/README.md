@@ -1,4 +1,4 @@
-# Inventorix AI: Sistema Inteligente de Gestión de Inventario
+# 📦 Inventorix AI: Sistema Inteligente de Gestión de Inventario
 
 **Equipo:** Bugs Busters\
 **Integrantes:** Bryan Anona, Brayan Rojas, Rodolfo Ramos, Ángel
@@ -75,8 +75,9 @@ InventorixAI/
 ### Clonar
 
 ``` bash
-git clone https://github.com/tu-usuario/inventorix-ai.git
-cd inventorix-ai
+git clone https://github.com/SIC-GruposGT05-06-2025/sic-proyectos-grupo-11.git
+cd sic-proyectos-grupo-11/proyecto_2_modulo_IA
+
 ```
 
 ### Dependencias
@@ -88,7 +89,7 @@ pip install -r requirements.txt
 ### Ejecutar
 
 ``` bash
-streamlit run app.py
+streamlit run src/frontend/app_frontend.py
 ```
 
 ## Uso del Sistema

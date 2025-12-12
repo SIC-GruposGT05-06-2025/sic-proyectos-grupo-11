@@ -1,4 +1,3 @@
-# sic-proyectos-grupo-11
 # 🌾 agriclimatePy
 
 - **Descripción general**  
