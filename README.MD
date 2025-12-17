@@ -19,4 +19,7 @@ Proyecto para analizar el impacto del cambio climático en la agricultura median
 Sistema de gestión de inventario con visión artificial usando YOLO, OpenCV y reportes avanzados con Plotly.  
 🔗 [Leer README del Proyecto 2](proyecto_2_modulo_IA/README.md)
 
-
+## 📁 Proyecto 3 — Hackaton
+**📦 Inventorix AI**  
+Versión mejorada del sistema de gestión de inventario con nuevas funcionalidades y optimizaciones.  
+🔗 [Leer README del Proyecto 3](Hackaton/README.md)
