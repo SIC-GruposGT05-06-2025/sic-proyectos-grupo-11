@@ -41,7 +41,6 @@ registrar movimientos y generar reportes inteligentes.
 InventorixAI/
 ├── data/
 │   ├── __init__.py
-│   ├── anomalias.csv
 │   ├── historial.json
 │   └── inventario.json
 │
@@ -114,3 +113,24 @@ streamlit run src/frontend/app_frontend.py
 -   Sunburst\
 -   Indicador de riesgo
 
+---
+## 📸 Capturas del sistema en ejecución
+
+### Dashboard principal
+![Dashboard2](capturas/2.png)
+![Dashboard3](capturas/3.png)
+
+### Detección de productos con cámara
+![Detección](capturas/4.png)
+![Detección2](capturas/5.png)
+
+### Reportes de inventario
+![Reportes2](capturas/7.png)
+![Reportes3](capturas/8.png)
+![Reportes4](capturas/9.png)
+![Reportes5](capturas/10.png)
+
+### Análisis de anomalías
+![Anomalías1](capturas/13.png)
+![Anomalías2](capturas/15.png)
+![Anomalías3](capturas/16.png)
