@@ -81,7 +81,7 @@ InventorixAI/
 
 ``` bash
 git clone https://github.com/SIC-GruposGT05-06-2025/sic-proyectos-grupo-11.git
-cd sic-proyectos-grupo-11/proyecto_2_modulo_IA
+cd sic-proyectos-grupo-11/Hackaton
 
 ```
 
